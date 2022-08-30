@@ -9,20 +9,13 @@ The dataset used for the testing and training purpose is avaiable at [Link](http
 ## Cite Us
 ~~~
 @misc{https://doi.org/10.48550/arxiv.2207.02489,
-  doi = {10.48550/ARXIV.2207.02489},
-  
-  url = {https://arxiv.org/abs/2207.02489},
-  
-  author = {Saini, Rahul and Halder, Debajyoti and Baswade, Anand M.},
-  
-  keywords = {Cryptography and Security (cs.CR), Networking and Internet Architecture (cs.NI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {RIDS : Real-time Intrusion Detection System for WPA3 enabled Enterprise Networks},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
+  doi = {10.48550/ARXIV.2207.02489},  
+  url = {https://arxiv.org/abs/2207.02489},  
+  author = {Saini, Rahul and Halder, Debajyoti and Baswade, Anand M.},  
+  keywords = {Cryptography and Security (cs.CR), Networking and Internet Architecture (cs.NI), FOS: Computer and information sciences, FOS: Computer and information sciences},  
+  title = {RIDS : Real-time Intrusion Detection System for WPA3 enabled Enterprise Networks},  
+  publisher = {arXiv},  
+  year = {2022},  
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
 ~~~
