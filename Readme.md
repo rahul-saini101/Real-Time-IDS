@@ -7,7 +7,7 @@ The dataset used for the testing and training purpose is avaiable at [Link](http
 
 
 ## Cite Us
-'''
+~~~
 @misc{https://doi.org/10.48550/arxiv.2207.02489,
   doi = {10.48550/ARXIV.2207.02489},
   
@@ -25,4 +25,4 @@ The dataset used for the testing and training purpose is avaiable at [Link](http
   
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
-'''
+~~~
